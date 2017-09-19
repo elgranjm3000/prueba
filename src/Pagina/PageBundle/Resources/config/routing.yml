@@ -1,0 +1,12 @@
+pagina_page_homepage:
+    path:     /
+    defaults: { _controller: PaginaPageBundle:Default:index }
+pagina_page_about:
+    path:     /about
+    defaults: { _controller: PaginaPageBundle:Default:about }
+pagina_page_services:
+    path:     /services
+    defaults: { _controller: PaginaPageBundle:Default:services }
+pagina_page_contacto:
+    path:     /contact
+    defaults: { _controller: PaginaPageBundle:Default:contacto }
