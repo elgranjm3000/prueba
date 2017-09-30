@@ -28,10 +28,10 @@ body {
     margin-bottom: 30px;
 }
 
-bg-dark{
+.bg-dark{
     background-color: #ffbd00 !important;
 }
 
 .navbar-dark .navbar-nav .nav-link {
-    color: white;
+    color: white !important;
     }
